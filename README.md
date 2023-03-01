@@ -1,6 +1,6 @@
 # OrderDesk NetSuite Integration
 
-![demo](/port-orderdesk-integration/images/port_screen_od_1.jpg)
+![demo](https://github.com/hakunamoni/port-orderdesk-integration/blob/main/images/port_screen_od_1.jpg)
 
 ## Requirement
 
