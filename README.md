@@ -18,7 +18,14 @@ Built OrderDesk NetSuite integration using SuiteScript 2.1 to sync below parts.
 ![so_od](/images/od_so_od.jpg)
 ![so_sh](/images/od_so_shopify.jpg)
 
+
+![so_od](/images/od_so_od.jpg)
+![so_sh](/images/od_so_shopify.jpg)
+
 2. Imported Inventory Items
+
+![item_od](/images/od_item_od.jpg)
+![item_sh](/images/od_item_shopify.jpg)
 
 ![item_od](/images/od_item_od.jpg)
 ![item_sh](/images/od_item_shopify.jpg)
