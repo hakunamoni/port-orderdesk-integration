@@ -26,3 +26,4 @@ Built OrderDesk NetSuite integration using SuiteScript 2.1 to sync below parts.
 3. Error Log
 
 ![err_log](/images/od_err_log.png)
+![err_log](/images/od_error_log.png)
