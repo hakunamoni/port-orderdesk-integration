@@ -58,7 +58,6 @@ define(["N/record", "N/search", "N/file", "N/log"], (
 
   const createOrder = (data, addFulfill) => {
     const odPo = data.order.id;
-    // const po=data.order.order_metadata.shopify_order_id;
 
     // confirm existing, add fulfillment
     const existingOrder = searchOrderByPo(odPo);
